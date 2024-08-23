@@ -1,7 +1,7 @@
 # my-summer-in-markdown
 
 ## introduction
-my name is madison lee. I am in the 10th grade. I am 15 years old. 
+my name is madison lee. I am in the 10th grade. I am 15 years old. I attend chatsworth high school. I play volleyball. I love hanging out with my friends and family. My favorite season is winter
 ## summer travel experienes
 This summer I went to hawaii. While we were there, we did a lot of shopping and swimming. We ate lots of different foods as well. I went with my family, it was very fun. I got to buy lots of clothes and shoes. We went to mueseums and hiking. Everything at hawaii is so beautiful. I was able to take lots of different pictures from many different places. 
 ## sports and physical activites
